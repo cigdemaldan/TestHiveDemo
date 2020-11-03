@@ -1,0 +1,24 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "description": "e2e automation testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy-open": "cypress open",
+    "cy-run":"cypress run",
+    "cy-chrome":"cypress run --browser chrome",
+    "cy-firefox":"cypress run --browser firefox"
+  },
+  "keywords": [
+    "cypress",
+    "e2e",
+    "automation",
+    "testing",
+    "testhive"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
+}

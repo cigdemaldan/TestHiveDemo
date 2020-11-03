@@ -1,0 +1,10 @@
+{
+
+    "baseUrl":"http://zero.webappsecurity.com/",
+    "video":true,
+    "pageLoadTimeout":60000,
+    "viewportHeight":768,
+    "viewportWeight":1024
+    
+
+}
